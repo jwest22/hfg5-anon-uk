@@ -24,7 +24,7 @@
  * AWS EMR Studio Notebook
    * Imports all libraries & starts Spark session
    * Loads json file from S3
-   * Creates pipeline using pretrained XLMRoBERTa model
+   * Creates pipeline using pretrained XLMRoBERTa model: https://huggingface.co/xlm-roberta-base
    * Fits json data to model
  
 **Next Steps (TODO)**
